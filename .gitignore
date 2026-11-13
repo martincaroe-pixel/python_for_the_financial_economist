@@ -142,3 +142,5 @@ docscr/_build/
 #*.png
 #*.jpg
 #*.pdf
+# macOS
+.DS_Store
